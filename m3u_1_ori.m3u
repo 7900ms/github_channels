@@ -1,0 +1,297 @@
+# m3u.m3u
+# https://github.com/feilongfl/China-M3U/blob/master/m3u.m3u
+#EXTM3U
+#EXTINF:-1,CCTV1-综合
+http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/cctv1hd/as/live/cctv1hd_4.m3u8
+#EXTINF:-1,CCTV 1-综合
+http://124.161.22.40:8080/live/program/live/cctv1hd/2300000/mnf.m3u8
+#EXTINF:-1,CCTV2-财经
+http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/cctv2/as/live/cctv2_4.m3u8
+#EXTINF:-1,CCTV 2-财经
+http://124.161.22.40:8080/live/program/live/cctv2/700000/mnf.m3u8
+#EXTINF:-1,CCTV3-综艺
+http://ktv003.cdnak.ds.kylintv.net/nlds/kylin/cctv3hd/as/live/cctv3hd_4.m3u8
+#EXTINF:-1,CCTV 3-综艺
+http://58.135.196.138:8090/live/A68CE6833D654a9e932A657689463088/index.m3u8
+#EXTINF:-1,CCTV4-中文
+http://ktv031.cdnak.ds.kylintv.net/nlds/kylin/cctv4/as/live/cctv4_4.m3u8
+#EXTINF:-1,CCTV 4-中文国际
+http://124.161.22.40:8080/live/program/live/cctv4/700000/mnf.m3u8
+#EXTINF:-1,CCTV5+体育赛事
+http://live.aishang.ctlcdn.com/live/ch238_10240128.m3u8
+#EXTINF:-1,CCTV 5-体育1080P
+http://hls1.plu.cn/onlive/17a1462512974966b8225396c0a05a81/playlist.m3u8
+#EXTINF:-1,CCTV 5-体育+
+http://219.232.160.161:5080/hls/6qrr3ik5.m3u8
+#EXTINF:-1,CCTV 6-电影
+http://58.135.196.138:8090/live/6132e9cb136050bd94822db31d1401af/index.m3u8
+#EXTINF:-1,CCTV7-军事农业
+http://live.aishang.ctlcdn.com/live/ch142_10240009.m3u8
+#EXTINF:-1,CCTV 7-军事农业
+http://124.161.22.40:8080/live/program/live/cctv7/700000/mnf.m3u8
+#EXTINF:-1,CCTV 8-电视剧
+http://58.135.196.138:8090/live/6e38d69416f160bad4657788d6c06c01/index.m3u8
+#EXTINF:-1,CCTV8-电视剧
+http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/cctv8hd/as/live/cctv8hd_4.m3u8
+#EXTINF:-1,CCTV9-纪录
+http://ktv011.cdnak.ds.kylintv.net/nlds/kylin/cctvdoc/as/live/cctvdoc_4.m3u8
+#EXTINF:-1,CCTV 9-记录
+http://58.135.196.138:8090/live/557a950d2cfcf2ee1aad5a260893c2b8/index.m3u8
+#EXTINF:-1,CCTV 10-科教
+http://124.161.22.40:8080/live/program/live/cctv10/700000/mnf.m3u8
+#EXTINF:-1,CCTV10-科教
+http://ktv012.cdnak.ds.kylintv.net/nlds/kylin/cctv10/as/live/cctv10_4.m3u8
+#EXTINF:-1,CCTV11-戏曲
+http://ktv038.cdnak.ds.kylintv.net/nlds/kylin/cctvopera/as/live/cctvopera_4.m3u8
+#EXTINF:-1,CCTV 11-戏曲
+http://124.161.22.40:8080/live/program/live/cctv11/700000/mnf.m3u8
+#EXTINF:-1,CCTV 12-社会与法
+http://124.161.22.40:8080/live/program/live/cctv12/700000/mnf.m3u8
+#EXTINF:-1,CCTV13-新闻
+http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/cctv13/as/live/cctv13_4.m3u8
+#EXTINF:-1,CCTV 13-新闻
+http://58.135.196.138:8090/live/5e02ac2a0829f7ab10d6543fdd211d8e/index.m3u8
+#EXTINF:-1,CCTV 13-新闻test
+http://zv.3gv.ifeng.com/live/CCTV13.m3u8
+#EXTINF:-1,CCTV13-News
+http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/cctv9/as/live/cctv9_4.m3u8
+#EXTINF:-1,CCTV 14-少儿
+http://124.161.22.40:8080/live/program/live/cctvse//700000/mnf.m3u8
+#EXTINF:-1,CCTV 15-音乐
+http://124.161.22.40:8080/live/program/live/cctvyy/700000/mnf.m3u8
+#EXTINF:-1,中国电影
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
+#EXTINF:-1,东方卫视？
+http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/dragontv/as/live/dragontv_4.m3u8
+#EXTINF:-1,东方卫视
+http://ktv011.cdnak.ds.kylintv.net/nlds/kylin/dragontvhd/as/live/dragontvhd_4.m3u8
+#EXTINF:-1,东方卫视
+http://hls.live.kksmg.com/live/dragontv/playlist.m3u8
+#EXTINF:-1,东方卫视test
+http://gslb.tv.sohu.com/live?cid=3&type=hls&ctype=m3u8
+#EXTINF:-1,广东卫视
+http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/gdtvhd/as/live/gdtvhd_4.m3u8
+#EXTINF:-1,北京卫视
+http://124.161.22.40:8080/live/program/live/bjwshd/2300000/mnf.m3u8
+#EXTINF:-1,北京卫视
+http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/btvhd/as/live/btvhd_4.m3u8
+#EXTINF:-1,BTV时尚生活
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8
+#EXTINF:-1,BTV时尚生活
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8
+#EXTINF:-1,BTV-文艺
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_4.m3u8
+#EXTINF:-1,江苏卫视
+http://124.161.22.40:8080/live/program/live/jswshd/2300000/mnf.m3u8
+#EXTINF:-1,江苏卫视
+http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8
+#EXTINF:-1,湖北卫视
+http://124.161.22.40:8080/live/program/live/hbwshd/2300000/mnf.m3u8
+#EXTINF:-1,湖南卫视
+http://ktv016.cdnak.ds.kylintv.net/nlds/kylin/huntvhd/as/live/huntvhd_4.m3u8
+#EXTINF:-1,湖南卫视HD
+http://124.161.22.40:8080/live/program/live/hnwshd/2300000/mnf.m3u8
+#EXTINF:-1,湖南卫视
+http://219.146.248.44/live/5/30/e9301e073cf94732a380b765c8b9573d.m3u8
+#EXTINF:-1,金鹰卡通
+http://tv02.tsytv.com.cn:1935/live/Jingyinkatong.stream/chunklist_w2092798141_DVR.m3u8
+#EXTINF:-1,安徽卫视
+http://tv02.tsytv.com.cn:1935/live/Anhui.stream/chunklist_w1104900713_DVR.m3u8
+#EXTINF:-1,天津卫视
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8
+#EXTINF:-1,浙江卫视
+http://124.161.22.40:8080/live/program/live/zjwshd/2300000/mnf.m3u8
+#EXTINF:-1,浙江卫视
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_4.m3u8
+#EXTINF:-1,深圳卫视
+http://ktv003.cdnak.ds.kylintv.net/nlds/kylin/sztvhd/as/live/sztvhd_4.m3u8
+#EXTINF:-1,深圳卫视
+http://124.161.22.40:8080/live/program/live/szwshd/2300000/mnf.m3u8
+#EXTINF:-1,山东卫视
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/sdtvhd/as/live/sdtvhd_4.m3u8
+#EXTINF:-1,山东卫视test
+http://gslb.tv.sohu.com/live?cid=14&type=hls&ctype=m3u8
+#EXTINF:-1,厦门卫视
+http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/xmtv/as/live/xmtv_4.m3u8
+#EXTINF:-1,黑龙江卫视
+http://124.161.22.40:8080/live/program/live/hljwshd/2300000/mnf.m3u8
+#EXTINF:-1,河北卫视HD
+http://live01.hebtv.com/channels/hebtv/video_channel_04/m3u8:2000k/live
+#EXTINF:-1,河北卫视
+http://live01.hebtv.com/channels/hebtv/video_channel_04/m3u8:800k/live
+#EXTINF:-1,兵团卫视
+http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8
+#EXTINF:-1,CETV4无声
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/clcchannel/as/live/clcchannel_4.m3u8
+#EXTINF:-1,旅游卫视
+http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/traveltv/as/live/traveltv_4.m3u8
+#EXTINF:-1,TVS2南方卫视
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/tvs/as/live/tvs_4.m3u8
+#EXTINF:-1,中国黃河
+http://ktv034.cdnak.ds.kylintv.net/nlds/kylin/cyrtv/as/live/cyrtv_4.m3u8
+#EXTINF:-1,Kunlun HD 昆仑剧场
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/kunlunhd/as/live/kunlunhd_4.m3u8
+#EXTINF:-1,Yangtze River 长江剧场
+http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/yangtse/as/live/yangtse_4.m3u8
+#EXTINF:-1,湖南国际
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/huntv/as/live/huntv_4.m3u8
+#EXTINF:-1,河南国际
+http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/henantv/as/live/henantv_4.m3u8
+#EXTINF:-1,天津国际
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/tjtv/as/live/tjtv_4.m3u8
+#EXTINF:-1,安徽国际
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/ahtv/as/live/ahtv_4.m3u8
+#EXTINF:-1,重庆国际
+http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/cqtvi/as/live/cqtvi_4.m3u8
+#EXTINF:-1,第一财经
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_4.m3u8
+#EXTINF:-1,四川国际
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/sctv/as/live/sctv_4.m3u8
+#EXTINF:-1,浙江国际
+http://ktv038.cdnak.ds.kylintv.net/nlds/kylin/zhejtv/as/live/zhejtv_4.m3u8
+#EXTINF:-1,江苏国际
+http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/jstv/as/live/jstv_4.m3u8
+#EXTINF:-1,广东国际
+http://ktv031.cdnak.ds.kylintv.net/nlds/kylin/gdtvi/as/live/gdtvi_4.m3u8
+#EXTINF:-1,广西国际
+http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/gxtv/as/live/gxtv_4.m3u8
+#EXTINF:-1,山東国际
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/sdtvi/as/live/sdtvi_4.m3u8
+#EXTINF:-1,云南国际
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/yunnantv/as/live/yunnantv_4.m3u8
+#EXTINF:-1,北京国际
+http://ktv026.cdnllnwnl.ds.kylintv.net/nlds/kylin/btv/as/live/btv_4.m3u8
+#EXTINF:-1,凤凰IT
+http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
+#EXTINF:-1,凤凰香港台
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
+#EXTINF:-1,凤凰卫视香港台
+http://live.3gv.ifeng.com/hongkong800k.m3u8
+#EXTINF:-1,凤凰美洲台
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/pxna/as/live/pxna_4.m3u8
+#EXTINF:-1,凤凰中文HD
+http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8
+#EXTINF:-1,华语电视
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
+#EXTINF:-1,華語電視
+http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/hyds/as/live/hyds_4.m3u8
+#EXTINF:-1,Chinese television
+http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/cathaytv/as/live/cathaytv_4.m3u8
+#EXTINF:-1,The Hong Kong and Taiwan海外台
+http://ktv002.cdnak.ds.kylintv.net/nlds/kylin/asiatv/as/live/asiatv_4.m3u8
+#EXTINF:-1,麒麟儿童
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8
+#EXTINF:-1,華娛衛視
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/cetv/droid/live/cetv_4.m3u8
+#EXTINF:-1,亚洲联合卫视
+http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
+#EXTINF:-1,耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1,香港卫视
+http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
+#EXTINF:-1,华夏电视台HD
+http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/cathaytv/as/live/cathaytv_4.m3u8
+#EXTINF:-1,香港卫视
+http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
+#EXTINF:-1,HKS 香港卫视
+rtmp://live.hkstv.hk.lxdns.com/live/hks
+#EXTINF:-1,美国中文电视
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:-1,新唐人国际台HD
+http://64.71.145.11/live400/playlist.m3u8
+#EXTINF:-1,民視HD
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/formosatv/as/live/formosatv_4.m3u8
+#EXTINF:-1,蓮花衛視
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/lotustv/as/live/lotustv_4.m3u8
+#EXTINF:-1,蓮花衛視
+http://122.152.139.15/zerox/LOTUS/0-42.m3u8
+#EXTINF:-1,澳亞衛視
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8
+#EXTINF:-1,澳门莲花
+http://122.152.139.15/zerox/LOTUS/0-42.m3u8
+#EXTINF:-1,ICN 国际卫视
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/as/live/iavc_4.m3u8
+#EXTINF:-1,CTRV America 东森卫视
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
+#EXTINF:-1,BLTV 人间卫视
+http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
+#EXTINF:-1,DAAI 大爱
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
+#EXTINF:-1,華視综合娱乐
+http://ktv037.cdnak.ds.kylintv.net/nlds/kylin/ctshd/as/live/ctshd_4.m3u8
+#EXTINF:-1,好消息
+http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-3.m3u8
+#EXTINF:-1,GOODTV 好消息
+http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1,好消息家庭电影院
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
+#EXTINF:-1,GOODTV2 好消息
+http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-3.m3u8
+#EXTINF:-1,GOODTV2 好消息
+http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1,Tibetan 华藏卫视
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/hztv/as/live/hztv_4.m3u8
+#EXTINF:-1,法界衛星
+http://ktv031.cdnak.ds.kylintv.net/nlds/kylin/uctv/as/live/uctv_4.m3u8
+#EXTINF:-1,東森美洲新聞 AMERICA
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/etnews/as/live/etnews_4.m3u8
+#EXTINF:-1,東森新聞HD挂
+http://60.199.188.60/HLS/ETTV-N_P_SD/03.m3u8
+#EXTINF:-1,Eastern sure
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
+#EXTINF:-1,TTV America
+http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
+#EXTINF:-1,ICN International TV
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/as/live/iavc_4.m3u8
+#EXTINF:-1,Eastern TV
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
+#EXTINF:-1,TTV America 台视美洲
+http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
+#EXTINF:-1,美国中文卫视
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8
+#EXTINF:-1,Television Champion冠军梦想
+http://27.100.64.99:1935/liveedge/live_2_0_0.stream/playlist.m3u8
+#EXTINF:-1,乐视综艺
+http://live.gslb.letv.com/gslb?stream_id=lb_lszy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,郭德纲
+http://live.gslb.letv.com/gslb?stream_id=lb_gdg_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+#EXTINF:-1,亲子频道
+http://live.gslb.letv.com/gslb?stream_id=lb_qinzi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,动漫台
+http://live.gslb.letv.com/gslb?stream_id=lb_comic_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+#EXTINF:-1,大头儿子
+http://live.gslb.letv.com/gslb?stream_id=lb_dtez_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,猪猪侠
+http://live.gslb.letv.com/gslb?stream_id=lb_zzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,多啦A梦
+http://live.gslb.letv.com/gslb?stream_id=lb_dlam_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,欧美卡通
+http://live.gslb.letv.com/gslb?stream_id=lb_omkt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,香港电影
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1,动作电影
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_dzdy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1,喜剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_comedy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1,周星驰
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_zxc_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1,宁浩
+http://live.gslb.letv.com/gslb?stream_id=lb_ninghao_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:-1,宋丹丹
+http://live.gslb.letv.com/gslb?stream_id=lb_sdd_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:-1,1080播不停
+http://live.gslb.letv.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,电视剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_tv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1,自制剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_make_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1,跟播剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_genbo_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1,韩剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_koreatv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1,经典美剧
+http://live.gslb.letv.com/gslb?stream_id=lb_jdmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1,热门美剧
+http://live.gslb.letv.com/gslb?stream_id=lb_rmmj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:-1,亚洲影院
+http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
