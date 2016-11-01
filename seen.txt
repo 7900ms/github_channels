@@ -28,6 +28,13 @@
 # http://live.le.com/lunbo/play/index.shtml?channel=751#神盾局特工第2季
 # http://live.le.com/lunbo/play/index.shtml?channel=2952#加菲猫
 # 
+?
+# 
+# http://live.le.com/lunbo/play/index.shtml?channel=760 深夜好莱坞
+# http://live.le.com/lunbo/play/index.shtml?channel=762 日韩院线
+# http://live.le.com/lunbo/play/index.shtml?channel=230 1080P
+# 
+#
 #
 # CIBN (http://live.pptv.com/list/tv_list)
 # http://v.pptv.com/show/s1C3NZ0Dc7EUkvo.html#CIBN电影导视#电影恋爱学
@@ -36,7 +43,14 @@
 
 = = = seen_live_tube_channel.txt = = =
 #
+# https://trello.com/b/3xbqycMV/playlisttv2
 #
+# http://www.panda.tv/310433#她弹吉他
+# http://www.yy.com/4864
+# http://live.bilibili.com/145#扎双马尾的丧尸
+# http://live.bilibili.com/172#B站学姐
+# http://live.bilibili.com/280#萌~ coser , 初来乍到的小主播
+# http://www.douyu.com/644021#莎莎和圆圆
 #
 #
 = = = seen 开心一刻 = = =
