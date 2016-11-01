@@ -1,0 +1,18 @@
+# seen_notlive_movie.txt
+#
+# QQ视频-电影
+# letv-电影
+# youku-电影
+# iqiyi-电影
+# 华数-电影
+#
+# (想看电影)
+# (哪个能看就看哪个)
+# (免费 - 可能删减)
+#
+# http://v.qq.com/x/movielist/?cate=10001&offset=0&sort=5&pay=100001&area=100029
+# http://list.le.com/listn/c1_t-1_a50071_y-1_s1_lg-1_ph1_md_o9_d1_p.html
+# http://list.youku.com/category/show/c_96_a_美国_u_0_pt_1_s_1_d_1.html
+# http://list.iqiyi.com/www/1/2----------0---4-1-1-iqiyi--.html
+# http://all.wasu.cn/index/sort/time/cid/1/class/program/area/4
+#
