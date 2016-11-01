@@ -11,7 +11,7 @@
 # letv
 # http://live.le.com/lunbo/play/index.shtml?channel=317#最佳拍档之女皇密令国语版
 # http://live.le.com/lunbo/play/index.shtml?channel=224#保持通话
-# http://live.le.com/lunbo/play/index.shtml?channel=352#阿郎的故事
+## http://live.le.com/lunbo/play/index.shtml?channel=352#阿郎的故事 警察故事续集
 # http://live.le.com/lunbo/play/index.shtml?channel=365#奇幻人生 我的野蛮女友
 # http://live.le.com/lunbo/play/index.shtml?channel=652#猫和老鼠
 # http://live.le.com/lunbo/play/index.shtml?channel=380#警察故事3
