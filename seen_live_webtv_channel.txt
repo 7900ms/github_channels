@@ -9,3 +9,4 @@
 # yy.com 放映厅
 # panda.tv 放映厅
 #
+# http://live.bilibili.com/movie
