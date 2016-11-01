@@ -3,3 +3,9 @@
 # http://live.pptv.com/list/tv_list
 # http://live.le.com/lunbo/index.shtml
 # 
+# bilibili 放映厅
+# zhanqi.tv 放映厅
+# douyu.com 放映厅
+# yy.com 放映厅
+# panda.tv 放映厅
+#
