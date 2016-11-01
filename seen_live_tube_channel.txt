@@ -6,6 +6,8 @@
 # http://live.qq.com
 #
 # http://www.douyu.com
-# http://www.yy.com
 # http://www.panda.tv
-# 
+# http://www.yy.com
+# http://www.zhanqi.tv/
+#
+
