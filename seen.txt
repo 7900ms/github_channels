@@ -45,6 +45,7 @@
 #
 # https://trello.com/b/3xbqycMV/playlisttv2
 #
+# Live
 # http://www.panda.tv/310433#她弹吉他
 # http://www.yy.com/4864
 # http://live.bilibili.com/145#扎双马尾的丧尸
@@ -52,6 +53,9 @@
 # http://live.bilibili.com/280#萌~ coser , 初来乍到的小主播
 # http://www.douyu.com/644021#莎莎和圆圆
 #
+# Clip
+# http://www.bilibili.com/video/av5884693/#学姐的一个小直播片段 x 学姐
+# http://www.bilibili.com/video/av2285283/#聊聊上学时的故事 ASMR x 扎双马尾的丧尸
 #
 = = = seen 开心一刻 = = =
 
