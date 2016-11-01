@@ -1,7 +1,7 @@
 # seen_live_tube_channel.txt
 #
 # http://www.douyu.com/directory/game/FTG
-# http://jia.360.cn/pc
+# http://jia.360.cn/pc/#水滴直播
 # http://live.bilibili.com
 # http://live.qq.com
 #
