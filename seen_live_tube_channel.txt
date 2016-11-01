@@ -1,5 +1,11 @@
 # seen_live_tube_channel.txt
 #
-# http://jia.360.cn/pc
 # http://www.douyu.com/directory/game/FTG
+# http://jia.360.cn/pc
+# http://live.bilibili.com
+# http://live.qq.com
 #
+# http://www.douyu.com
+# http://www.yy.com
+# http://www.panda.tv
+# 
