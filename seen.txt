@@ -1,4 +1,13 @@
 # seen.txt
+
+= = = seen_live_tv_channel.txt = = =
+
+# http://tv.cctv.com/live/cctv6
+# http://v.ifeng.com/live
+# 凤凰卫视电影台(?)
+
+= = = seen_live_webtv_channel.txt = = =
+#
 # letv
 # http://live.le.com/lunbo/play/index.shtml?channel=317#最佳拍档之女皇密令国语版
 # http://live.le.com/lunbo/play/index.shtml?channel=224#保持通话
@@ -7,4 +16,20 @@
 # CIBN (http://live.pptv.com/list/tv_list)
 # http://v.pptv.com/show/s1C3NZ0Dc7EUkvo.html#CIBN电影导视#电影恋爱学
 # http://v.pptv.com/show/wZ79eibNJufda2EA.html#CIBN动漫频道#电影大圣归来
+#
+
+= = = seen_live_tube_channel.txt = = =
+#
+#
+#
+#
+= = = seen 开心一刻 = = =
+
+http://www.wasu.cn/Play/show/id/7861961
+
+
+
+
+
+
 #
