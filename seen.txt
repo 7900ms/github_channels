@@ -26,6 +26,7 @@
 # http://live.le.com/lunbo/play/index.shtml?channel=496#名侦探柯南
 # http://live.le.com/lunbo/play/index.shtml?channel=1362#特工卡特第1季
 # http://live.le.com/lunbo/play/index.shtml?channel=751#神盾局特工第2季
+# http://live.le.com/lunbo/play/index.shtml?channel=754#美国谍梦第1季第1集
 # http://live.le.com/lunbo/play/index.shtml?channel=2952#加菲猫
 # 
 ?
