@@ -5,6 +5,7 @@
 # http://tv.cctv.com/live/cctv6
 # http://v.ifeng.com/live
 # 凤凰卫视电影台(?)
+# http://live.ipanda.com
 
 = = = seen_live_webtv_channel.txt = = =
 #
