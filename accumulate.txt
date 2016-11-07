@@ -53,7 +53,7 @@ http://apiv.ga/magnet/007322bde2f502af94b45c129b944764786e1729
 #
 
 v2ex
-s1
+s1 tgfc tgbus
 mobile01
 超级苹果
 mitbbs
