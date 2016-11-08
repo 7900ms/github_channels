@@ -13,4 +13,6 @@
 
 
 
-#
+## 散卡
+
+https://www.zhihu.com/question/47315089/answer/130200809 # 王朔 刘震云
