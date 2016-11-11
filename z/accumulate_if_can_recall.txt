@@ -1,4 +1,4 @@
-# /z/accumulate.txt
+# /z/accumulate_if_can_recall.txt
 #
 
 #
@@ -43,7 +43,7 @@ https://www.zhihu.com/question/30931532
 
 
 
-# # # # # ############################
+# # # # # ######## NOT N.O.T####################
 
 “我们笑到了最后”
 https://www.zhihu.com/question/34768157/answer/63438433
@@ -61,6 +61,8 @@ https://www.zhihu.com/question/34768157/answer/63438433
 厦大王亚楠学院，2+3的项目，直升ucd硕士，同时取得ucd本科毕业证
 https://www.zhihu.com/question/34768157/answer/63438433
 
+问UCD会计硕士毕业后在爱尔兰好找工作吗,还有在留学期间去周边国家和地区旅游容易不？ - 知乎
+https://www.zhihu.com/question/24682318
 
 
 -
