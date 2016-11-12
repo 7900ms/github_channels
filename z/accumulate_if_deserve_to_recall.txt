@@ -6,6 +6,7 @@
 #
 # “我参加回忆接客待客，如果我对你没印象，那是你太平庸了”
 # “有点儿个性啊，耍酷的 or have esteem, 无论什么个性、有个性的，我可能能记住”
+# “性感服装、摇滚乐、歌剧、电影、欧洲文艺精神”
 #
 
 澳德华
@@ -78,7 +79,10 @@ http://www.adh.cn/ireland/yiminwenti/3640.html # 【爱尔兰移民】爱尔兰�
 【爱尔兰移民】爱尔兰教育制度 - 澳德华移民
 http://www.adh.cn/ireland/zinvjiaoyu/3613.html
 
+#
 
+性感服装、摇滚乐、歌剧、电影、欧洲文艺精神
+http://sports.qq.com/a/20161112/003076.htm
 
 
 
