@@ -101,7 +101,7 @@ soku
 
 电竞世界冠军草莓<br>
 [link](http://lol.duowan.com/1601/317152226770.html)
-
+[link](http://lol.tgbus.com/news/bgzt/301148.shtml)
 
 3
 
