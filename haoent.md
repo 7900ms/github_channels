@@ -62,6 +62,10 @@ soku
 
 [天天德州真人秀](http://poker.appgame.com/poker2015)
 
+## 文字专辑 - 游戏
+
+[小孩](https://www.zhihu.com/question/21365459)<br>
+[梅原大吾](https://www.zhihu.com/question/33038867)
 
 ## DVD
 
@@ -91,8 +95,7 @@ soku
 
 梅原大吾 拳皇 逆转<br>
 [link](https://www.zhihu.com/question/25560381/answer/31157584)<br>
-小孩<br>
-[link](https://www.zhihu.com/question/21365459)
+
 
 4
 
