@@ -66,7 +66,7 @@ soku
 ## 文字专辑 - 游戏
 
 [小孩](https://www.zhihu.com/question/21365459)<br>
-[梅原大吾](https://www.zhihu.com/question/33038867)
+[梅原大吾](https://www.zhihu.com/question/33038867) [_](https://www.zhihu.com/question/25560381/answer/31157584)
 
 ## DVD
 
