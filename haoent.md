@@ -96,6 +96,7 @@ soku
 
 梅原大吾 拳皇 逆转<br>
 [link](https://www.zhihu.com/question/25560381/answer/31157584)<br>
+[video](http://v.youku.com/v_show/id_XNDI2NzIyMjc2.html)
 
 
 4
