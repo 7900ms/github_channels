@@ -60,7 +60,7 @@ soku
 
 ### 赛事专辑
 
-天天德州真人秀
+[天天德州真人秀](http://poker.appgame.com/poker2015)
 
 ## DVD
 
