@@ -60,7 +60,8 @@ soku
 
 ### 赛事专辑
 
-[天天德州真人秀](http://poker.appgame.com/poker2015)
+[天天德州真人秀](http://poker.appgame.com/poker2015)<br>
+[报道](http://g.qq.com/zone/ttdz/art/53522.shtml)
 
 ## 文字专辑 - 游戏
 
