@@ -133,7 +133,7 @@ soku
 
 1
 
-[西式](https://www.douban.com/doulist/45757694/)
+[西式西化](https://www.douban.com/doulist/45757694/)
 
 #### 池和偶遇
 
